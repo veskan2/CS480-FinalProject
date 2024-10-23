@@ -4,7 +4,4 @@ In our project we aim to develop a web app that connects with mySQL so that user
 
 Please note this is just our initial project overview and is subject to change!
 ## Authors:
-Veronica Eskandar 
-Yostina Fahmy
-Guoming Tan
-Klimek Michael 
+Veronica Eskandar, Yostina Fahmy, Guoming Tan, and Klimek Michael 
