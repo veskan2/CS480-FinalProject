@@ -63,5 +63,4 @@ The application should support the following actions for administrators and stud
 3. Reporting and Analytics for Administrators
 - Generate reports on room usage, reservation trends, and blacklist statistics.
 
-## Authors:
-Veronica Eskandar, Yostina Fahmy, Guoming Tan, and Klimek Michael 
+
